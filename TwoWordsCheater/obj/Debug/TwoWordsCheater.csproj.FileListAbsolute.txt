@@ -1,0 +1,6 @@
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\bin\Debug\TwoWordsCheater.exe.config
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\bin\Debug\TwoWordsCheater.exe
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\bin\Debug\TwoWordsCheater.pdb
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\obj\Debug\TwoWordsCheater.csprojResolveAssemblyReference.cache
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\obj\Debug\TwoWordsCheater.exe
+c:\users\jeremiah\documents\repo\TwoWordsCheater\TwoWordsCheater\TwoWordsCheater\obj\Debug\TwoWordsCheater.pdb
